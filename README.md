@@ -8,7 +8,7 @@ An Open Source Telegram Rename Bot
 #### The Easy Way
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EL-Coders/ELRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mightymonster/FRenameBot)
 
 
 #### The Hard Way
